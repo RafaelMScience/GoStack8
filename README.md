@@ -1,5 +1,6 @@
 # Bootcamp GoStack 8
 
+![](GoStack.jpg)
 Este repositório tem como objetivo server de índice e histórico dos projetos desenvolvidos durante o Bootcamp, mas também deve servir para anotações de ferramentas e bibliotecas importantes ou úteis para o desenvolvimento na Stack abordada.
 
 ## Sobre o Bootcamp GoStack 
