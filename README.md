@@ -22,8 +22,9 @@ Segundo a definição da RocketSeat o GoStack é um treinamento online, intensiv
 
 ## Módulos
 * [Módulo 01](https://github.com/RafaelMScience/Modulo01)
-
+* [Módulo 02](https://github.com/RafaelMScience/Modulo02)
 
 ## Desafios
-* [Desafio 01](https://github.com/)
+* [Desafio 01](https://github.com/RafaelMScience/Desafio01)
+* [Desafio 02](https://github.com/RafaelMScience/Desafio02)
 
